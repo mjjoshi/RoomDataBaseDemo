@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PractiCalDemo</string>
+    <string name="roomdatabasedemo">RoomDatabaseDemo</string>
+    <string name="googlemapapi">GoogleMapAPi</string>
+    <string name="type">Type</string>
+    <string name="update">update</string>
+    <string name="delete">delete</string>
+    <string name="insert">insert</string>
+</resources>
